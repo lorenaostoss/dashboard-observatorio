@@ -1,0 +1,607 @@
+org,factor,item,enunciado,n,pct_desfavorable
+Organización A,Demandas,dem1,Me presionan para trabajar muchas horas,124,12.903225806451612
+Organización A,Demandas,dem2,Tengo plazos de entrega inalcanzables,124,28.225806451612907
+Organización A,Demandas,dem3,Tengo presiones de tiempo poco realistas,124,25.806451612903224
+Organización A,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,124,35.483870967741936
+Organización A,Control,ctrl1,Puedo decidir qué hago en mi trabajo,124,14.516129032258066
+Organización A,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,124,5.64516129032258
+Organización A,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,124,14.516129032258066
+Organización A,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,124,4.032258064516129
+Organización A,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",124,6.451612903225806
+Organización A,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,124,4.032258064516129
+Organización A,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,124,1.6129032258064515
+Organización A,Apoyo del líder,lid5,Mi líder valora mis contribuciones,124,6.451612903225806
+Organización A,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,124,11.29032258064516
+Organización A,Apoyo del líder,lid7,Mi líder me anima con elogios,124,15.32258064516129
+Organización A,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",124,3.225806451612903
+Organización A,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,124,2.4193548387096775
+Organización A,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,124,6.451612903225806
+Organización A,Claridad del rol,rol1,Tengo claro lo que se espera de mí,124,0.8064516129032258
+Organización A,Claridad del rol,rol2,Sé cómo hacer mi trabajo,124,0.8064516129032258
+Organización A,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,124,0.0
+Organización A,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,124,0.0
+Organización A,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,124,37.096774193548384
+Organización A,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,124,17.741935483870968
+Organización A,Conflicto de rol,con3,Recibo solicitudes incompatibles,124,18.548387096774192
+Organización A,Gestión del cambio,cam1,Me consultan sobre los cambios,124,33.87096774193548
+Organización A,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,124,12.096774193548388
+Organización A,Gestión del cambio,cam3,Estoy informado sobre los cambios,124,12.096774193548388
+Organización A,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,124,12.903225806451612
+Organización A,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,124,16.129032258064516
+Organización A,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,124,24.193548387096776
+Organización A,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,124,28.225806451612907
+Organización A,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,124,30.64516129032258
+Organización A,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,124,34.67741935483871
+Organización A,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,124,37.096774193548384
+Organización A,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,124,35.483870967741936
+Organización A,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,124,27.419354838709676
+Organización A,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,124,31.451612903225808
+Organización A,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,124,37.903225806451616
+Organización B,Demandas,dem1,Me presionan para trabajar muchas horas,87,16.091954022988507
+Organización B,Demandas,dem2,Tengo plazos de entrega inalcanzables,87,20.689655172413794
+Organización B,Demandas,dem3,Tengo presiones de tiempo poco realistas,87,19.54022988505747
+Organización B,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,87,34.48275862068966
+Organización B,Control,ctrl1,Puedo decidir qué hago en mi trabajo,87,8.045977011494253
+Organización B,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,87,6.896551724137931
+Organización B,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,87,9.195402298850574
+Organización B,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,87,9.195402298850574
+Organización B,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",87,8.045977011494253
+Organización B,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,87,5.747126436781609
+Organización B,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,87,8.045977011494253
+Organización B,Apoyo del líder,lid5,Mi líder valora mis contribuciones,87,8.045977011494253
+Organización B,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,87,10.344827586206897
+Organización B,Apoyo del líder,lid7,Mi líder me anima con elogios,87,11.494252873563218
+Organización B,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",87,10.344827586206897
+Organización B,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,87,5.747126436781609
+Organización B,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,87,9.195402298850574
+Organización B,Claridad del rol,rol1,Tengo claro lo que se espera de mí,87,2.2988505747126435
+Organización B,Claridad del rol,rol2,Sé cómo hacer mi trabajo,87,0.0
+Organización B,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,87,0.0
+Organización B,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,87,0.0
+Organización B,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,87,34.48275862068966
+Organización B,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,87,21.839080459770116
+Organización B,Conflicto de rol,con3,Recibo solicitudes incompatibles,87,21.839080459770116
+Organización B,Gestión del cambio,cam1,Me consultan sobre los cambios,87,24.137931034482758
+Organización B,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,87,13.793103448275861
+Organización B,Gestión del cambio,cam3,Estoy informado sobre los cambios,87,13.793103448275861
+Organización B,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,87,8.045977011494253
+Organización B,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,87,17.24137931034483
+Organización B,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,87,33.33333333333333
+Organización B,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,87,28.735632183908045
+Organización B,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,87,35.63218390804598
+Organización B,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,87,34.48275862068966
+Organización B,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,87,40.229885057471265
+Organización B,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,87,42.5287356321839
+Organización B,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,87,41.37931034482759
+Organización B,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,87,34.48275862068966
+Organización B,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,87,43.67816091954023
+Organización C,Demandas,dem1,Me presionan para trabajar muchas horas,135,5.9259259259259265
+Organización C,Demandas,dem2,Tengo plazos de entrega inalcanzables,135,8.148148148148149
+Organización C,Demandas,dem3,Tengo presiones de tiempo poco realistas,135,6.666666666666667
+Organización C,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,135,15.555555555555555
+Organización C,Control,ctrl1,Puedo decidir qué hago en mi trabajo,135,14.074074074074074
+Organización C,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,135,27.40740740740741
+Organización C,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,135,2.2222222222222223
+Organización C,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,135,2.9629629629629632
+Organización C,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",135,4.444444444444445
+Organización C,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,135,2.9629629629629632
+Organización C,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,135,3.7037037037037033
+Organización C,Apoyo del líder,lid5,Mi líder valora mis contribuciones,135,5.185185185185185
+Organización C,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,135,5.9259259259259265
+Organización C,Apoyo del líder,lid7,Mi líder me anima con elogios,135,11.851851851851853
+Organización C,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",135,1.4814814814814816
+Organización C,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,135,0.0
+Organización C,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,135,2.9629629629629632
+Organización C,Claridad del rol,rol1,Tengo claro lo que se espera de mí,135,0.7407407407407408
+Organización C,Claridad del rol,rol2,Sé cómo hacer mi trabajo,135,0.0
+Organización C,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,135,0.0
+Organización C,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,135,0.0
+Organización C,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,135,20.0
+Organización C,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,135,12.592592592592592
+Organización C,Conflicto de rol,con3,Recibo solicitudes incompatibles,135,11.11111111111111
+Organización C,Gestión del cambio,cam1,Me consultan sobre los cambios,135,25.185185185185183
+Organización C,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,135,8.148148148148149
+Organización C,Gestión del cambio,cam3,Estoy informado sobre los cambios,135,11.851851851851853
+Organización C,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,135,13.333333333333334
+Organización C,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,135,10.37037037037037
+Organización C,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,135,14.814814814814813
+Organización C,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,135,17.77777777777778
+Organización C,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,135,4.444444444444445
+Organización C,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,135,8.148148148148149
+Organización C,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,135,6.666666666666667
+Organización C,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,135,7.4074074074074066
+Organización C,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,135,6.666666666666667
+Organización C,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,135,5.9259259259259265
+Organización C,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,135,10.37037037037037
+Organización D,Demandas,dem1,Me presionan para trabajar muchas horas,78,35.8974358974359
+Organización D,Demandas,dem2,Tengo plazos de entrega inalcanzables,78,33.33333333333333
+Organización D,Demandas,dem3,Tengo presiones de tiempo poco realistas,78,34.61538461538461
+Organización D,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,78,47.43589743589743
+Organización D,Control,ctrl1,Puedo decidir qué hago en mi trabajo,78,24.358974358974358
+Organización D,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,78,17.94871794871795
+Organización D,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,78,25.64102564102564
+Organización D,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,78,15.384615384615385
+Organización D,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",78,21.794871794871796
+Organización D,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,78,17.94871794871795
+Organización D,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,78,15.384615384615385
+Organización D,Apoyo del líder,lid5,Mi líder valora mis contribuciones,78,17.94871794871795
+Organización D,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,78,25.64102564102564
+Organización D,Apoyo del líder,lid7,Mi líder me anima con elogios,78,30.76923076923077
+Organización D,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",78,12.82051282051282
+Organización D,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,78,12.82051282051282
+Organización D,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,78,11.538461538461538
+Organización D,Claridad del rol,rol1,Tengo claro lo que se espera de mí,78,2.564102564102564
+Organización D,Claridad del rol,rol2,Sé cómo hacer mi trabajo,78,0.0
+Organización D,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,78,0.0
+Organización D,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,78,1.282051282051282
+Organización D,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,78,51.28205128205128
+Organización D,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,78,26.923076923076923
+Organización D,Conflicto de rol,con3,Recibo solicitudes incompatibles,78,21.794871794871796
+Organización D,Gestión del cambio,cam1,Me consultan sobre los cambios,78,56.41025641025641
+Organización D,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,78,26.923076923076923
+Organización D,Gestión del cambio,cam3,Estoy informado sobre los cambios,78,33.33333333333333
+Organización D,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,78,33.33333333333333
+Organización D,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,78,50.0
+Organización D,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,78,85.8974358974359
+Organización D,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,78,87.17948717948718
+Organización D,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,78,76.92307692307693
+Organización D,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,78,84.61538461538461
+Organización D,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,78,56.41025641025641
+Organización D,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,78,52.56410256410257
+Organización D,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,78,52.56410256410257
+Organización D,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,78,46.15384615384615
+Organización D,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,78,55.12820512820513
+Organización E,Demandas,dem1,Me presionan para trabajar muchas horas,2103,3.8991916310033283
+Organización E,Demandas,dem2,Tengo plazos de entrega inalcanzables,2103,7.5130765572990965
+Organización E,Demandas,dem3,Tengo presiones de tiempo poco realistas,2103,5.706134094151213
+Organización E,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,2103,6.990014265335236
+Organización E,Control,ctrl1,Puedo decidir qué hago en mi trabajo,2103,42.368045649072755
+Organización E,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,2103,24.964336661911553
+Organización E,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,2103,24.155967665240134
+Organización E,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,2103,14.21778411792677
+Organización E,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",2103,18.116975748930102
+Organización E,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,2103,11.554921540656206
+Organización E,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,2103,12.791250594388966
+Organización E,Apoyo del líder,lid5,Mi líder valora mis contribuciones,2103,14.503090822634332
+Organización E,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,2103,25.915359010936754
+Organización E,Apoyo del líder,lid7,Mi líder me anima con elogios,2103,23.775558725630052
+Organización E,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",2103,25.77270565858298
+Organización E,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,2103,23.49025202092249
+Organización E,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,2103,37.280076081787925
+Organización E,Claridad del rol,rol1,Tengo claro lo que se espera de mí,2103,3.0432715168806466
+Organización E,Claridad del rol,rol2,Sé cómo hacer mi trabajo,2103,0.6657156443176415
+Organización E,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,2103,0.5230622919638611
+Organización E,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,2103,1.8069424631478839
+Organización E,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,2103,9.22491678554446
+Organización E,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,2103,9.12981455064194
+Organización E,Conflicto de rol,con3,Recibo solicitudes incompatibles,2103,6.9424631478839745
+Organización E,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,2103,5.943889681407513
+Organización E,Gestión del cambio,cam3,Estoy informado sobre los cambios,2103,8.84450784593438
+Organización E,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,2103,19.258202567760343
+Organización E,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,2103,19.258202567760343
+Organización E,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,2103,28.007608178792204
+Organización E,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,2103,25.059438896814072
+Organización E,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,2103,21.207798383262006
+Organización E,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,2101,15.373631603998097
+Organización E,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,2101,17.229890528319846
+Organización E,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,2101,14.278914802475013
+Organización E,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,2101,15.61161351737268
+Organización E,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,2101,30.36649214659686
+Organización F,Demandas,dem1,Me presionan para trabajar muchas horas,110,5.454545454545454
+Organización F,Demandas,dem2,Tengo plazos de entrega inalcanzables,110,3.6363636363636362
+Organización F,Demandas,dem3,Tengo presiones de tiempo poco realistas,110,4.545454545454546
+Organización F,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,110,6.363636363636363
+Organización F,Control,ctrl1,Puedo decidir qué hago en mi trabajo,110,24.545454545454547
+Organización F,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,110,30.0
+Organización F,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,110,12.727272727272727
+Organización F,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,110,5.454545454545454
+Organización F,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",110,4.545454545454546
+Organización F,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,110,4.545454545454546
+Organización F,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,110,7.2727272727272725
+Organización F,Apoyo del líder,lid5,Mi líder valora mis contribuciones,110,8.181818181818182
+Organización F,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,110,9.090909090909092
+Organización F,Apoyo del líder,lid7,Mi líder me anima con elogios,110,10.909090909090908
+Organización F,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",110,5.454545454545454
+Organización F,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,110,4.545454545454546
+Organización F,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,110,7.2727272727272725
+Organización F,Claridad del rol,rol1,Tengo claro lo que se espera de mí,110,2.727272727272727
+Organización F,Claridad del rol,rol2,Sé cómo hacer mi trabajo,110,0.9090909090909091
+Organización F,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,110,1.8181818181818181
+Organización F,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,110,0.9090909090909091
+Organización F,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,110,14.545454545454545
+Organización F,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,110,12.727272727272727
+Organización F,Conflicto de rol,con3,Recibo solicitudes incompatibles,110,8.181818181818182
+Organización F,Gestión del cambio,cam1,Me consultan sobre los cambios,110,39.09090909090909
+Organización F,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,110,18.181818181818183
+Organización F,Gestión del cambio,cam3,Estoy informado sobre los cambios,110,20.909090909090907
+Organización F,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,110,17.272727272727273
+Organización F,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,110,18.181818181818183
+Organización F,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,110,47.27272727272727
+Organización F,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,110,48.18181818181818
+Organización F,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,110,50.90909090909091
+Organización F,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,110,52.72727272727272
+Organización F,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,110,8.181818181818182
+Organización F,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,110,10.909090909090908
+Organización F,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,110,7.2727272727272725
+Organización F,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,110,5.454545454545454
+Organización F,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,110,16.363636363636363
+Organización G,Demandas,dem1,Me presionan para trabajar muchas horas,333,9.30930930930931
+Organización G,Demandas,dem2,Tengo plazos de entrega inalcanzables,333,9.00900900900901
+Organización G,Demandas,dem3,Tengo presiones de tiempo poco realistas,333,6.306306306306306
+Organización G,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,333,11.11111111111111
+Organización G,Control,ctrl1,Puedo decidir qué hago en mi trabajo,333,12.612612612612612
+Organización G,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,333,23.423423423423422
+Organización G,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,333,9.60960960960961
+Organización G,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,333,7.207207207207207
+Organización G,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",333,9.30930930930931
+Organización G,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,333,6.306306306306306
+Organización G,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,333,5.7057057057057055
+Organización G,Apoyo del líder,lid5,Mi líder valora mis contribuciones,333,8.108108108108109
+Organización G,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,333,12.012012012012011
+Organización G,Apoyo del líder,lid7,Mi líder me anima con elogios,333,14.714714714714713
+Organización G,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",333,10.81081081081081
+Organización G,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,333,9.00900900900901
+Organización G,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,333,17.71771771771772
+Organización G,Claridad del rol,rol1,Tengo claro lo que se espera de mí,333,1.5015015015015014
+Organización G,Claridad del rol,rol2,Sé cómo hacer mi trabajo,333,0.3003003003003003
+Organización G,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,333,0.0
+Organización G,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,333,0.3003003003003003
+Organización G,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,333,20.72072072072072
+Organización G,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,333,12.612612612612612
+Organización G,Conflicto de rol,con3,Recibo solicitudes incompatibles,333,11.11111111111111
+Organización G,Gestión del cambio,cam1,Me consultan sobre los cambios,333,32.732732732732735
+Organización G,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,333,8.108108108108109
+Organización G,Gestión del cambio,cam3,Estoy informado sobre los cambios,333,12.912912912912914
+Organización G,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,333,14.114114114114114
+Organización G,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,333,21.62162162162162
+Organización G,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,333,45.34534534534534
+Organización G,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,333,38.73873873873874
+Organización G,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,333,48.64864864864865
+Organización G,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,333,45.645645645645644
+Organización G,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,333,21.32132132132132
+Organización G,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,333,23.423423423423422
+Organización G,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,333,17.71771771771772
+Organización G,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,333,17.417417417417415
+Organización G,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,333,29.72972972972973
+Organización H,Demandas,dem1,Me presionan para trabajar muchas horas,222,8.108108108108109
+Organización H,Demandas,dem2,Tengo plazos de entrega inalcanzables,222,10.81081081081081
+Organización H,Demandas,dem3,Tengo presiones de tiempo poco realistas,222,10.81081081081081
+Organización H,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,222,18.01801801801802
+Organización H,Control,ctrl1,Puedo decidir qué hago en mi trabajo,222,30.630630630630627
+Organización H,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,222,30.180180180180184
+Organización H,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,222,18.91891891891892
+Organización H,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,222,13.063063063063062
+Organización H,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",222,18.46846846846847
+Organización H,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,222,11.711711711711711
+Organización H,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,222,11.26126126126126
+Organización H,Apoyo del líder,lid5,Mi líder valora mis contribuciones,222,10.36036036036036
+Organización H,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,222,11.711711711711711
+Organización H,Apoyo del líder,lid7,Mi líder me anima con elogios,222,15.765765765765765
+Organización H,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",222,20.72072072072072
+Organización H,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,222,17.56756756756757
+Organización H,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,222,16.666666666666664
+Organización H,Claridad del rol,rol1,Tengo claro lo que se espera de mí,222,3.153153153153153
+Organización H,Claridad del rol,rol2,Sé cómo hacer mi trabajo,222,0.0
+Organización H,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,222,0.9009009009009009
+Organización H,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,222,0.45045045045045046
+Organización H,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,222,30.180180180180184
+Organización H,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,222,13.513513513513514
+Organización H,Conflicto de rol,con3,Recibo solicitudes incompatibles,222,13.513513513513514
+Organización H,Gestión del cambio,cam1,Me consultan sobre los cambios,222,34.68468468468468
+Organización H,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,222,17.56756756756757
+Organización H,Gestión del cambio,cam3,Estoy informado sobre los cambios,222,21.62162162162162
+Organización H,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,222,19.36936936936937
+Organización H,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,222,31.08108108108108
+Organización H,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,222,63.96396396396396
+Organización H,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,222,59.909909909909906
+Organización H,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,222,59.009009009009006
+Organización H,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,222,64.41441441441441
+Organización H,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,222,27.47747747747748
+Organización H,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,222,24.774774774774773
+Organización H,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,222,22.972972972972975
+Organización H,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,222,26.576576576576578
+Organización H,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,222,32.88288288288289
+Organización I,Demandas,dem1,Me presionan para trabajar muchas horas,99,12.121212121212121
+Organización I,Demandas,dem2,Tengo plazos de entrega inalcanzables,99,10.1010101010101
+Organización I,Demandas,dem3,Tengo presiones de tiempo poco realistas,99,12.121212121212121
+Organización I,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,99,19.19191919191919
+Organización I,Control,ctrl1,Puedo decidir qué hago en mi trabajo,99,11.11111111111111
+Organización I,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,99,16.161616161616163
+Organización I,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,99,6.0606060606060606
+Organización I,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,99,8.080808080808081
+Organización I,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",99,10.1010101010101
+Organización I,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,99,7.07070707070707
+Organización I,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,99,9.090909090909092
+Organización I,Apoyo del líder,lid5,Mi líder valora mis contribuciones,99,9.090909090909092
+Organización I,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,99,13.131313131313133
+Organización I,Apoyo del líder,lid7,Mi líder me anima con elogios,99,13.131313131313133
+Organización I,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",99,10.1010101010101
+Organización I,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,99,10.1010101010101
+Organización I,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,99,13.131313131313133
+Organización I,Claridad del rol,rol1,Tengo claro lo que se espera de mí,99,7.07070707070707
+Organización I,Claridad del rol,rol2,Sé cómo hacer mi trabajo,99,4.040404040404041
+Organización I,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,99,3.0303030303030303
+Organización I,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,99,3.0303030303030303
+Organización I,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,99,27.27272727272727
+Organización I,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,99,17.17171717171717
+Organización I,Conflicto de rol,con3,Recibo solicitudes incompatibles,99,16.161616161616163
+Organización I,Gestión del cambio,cam1,Me consultan sobre los cambios,99,29.292929292929294
+Organización I,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,99,18.181818181818183
+Organización I,Gestión del cambio,cam3,Estoy informado sobre los cambios,99,18.181818181818183
+Organización I,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,99,15.151515151515152
+Organización I,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,99,13.131313131313133
+Organización I,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,99,35.35353535353536
+Organización I,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,99,27.27272727272727
+Organización I,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,99,28.28282828282828
+Organización I,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,99,34.34343434343434
+Organización I,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,99,30.303030303030305
+Organización I,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,99,26.262626262626267
+Organización I,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,99,24.242424242424242
+Organización I,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,99,21.21212121212121
+Organización I,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,99,23.232323232323232
+Organización J,Demandas,dem1,Me presionan para trabajar muchas horas,103,6.796116504854369
+Organización J,Demandas,dem2,Tengo plazos de entrega inalcanzables,103,7.766990291262135
+Organización J,Demandas,dem3,Tengo presiones de tiempo poco realistas,103,6.796116504854369
+Organización J,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,103,17.475728155339805
+Organización J,Control,ctrl1,Puedo decidir qué hago en mi trabajo,103,6.796116504854369
+Organización J,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,103,20.388349514563107
+Organización J,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,103,5.825242718446602
+Organización J,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,103,3.8834951456310676
+Organización J,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",103,3.8834951456310676
+Organización J,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,103,2.912621359223301
+Organización J,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,103,1.9417475728155338
+Organización J,Apoyo del líder,lid5,Mi líder valora mis contribuciones,103,3.8834951456310676
+Organización J,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,103,7.766990291262135
+Organización J,Apoyo del líder,lid7,Mi líder me anima con elogios,103,10.679611650485436
+Organización J,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",103,4.854368932038835
+Organización J,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,103,3.8834951456310676
+Organización J,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,103,3.8834951456310676
+Organización J,Claridad del rol,rol1,Tengo claro lo que se espera de mí,103,0.9708737864077669
+Organización J,Claridad del rol,rol2,Sé cómo hacer mi trabajo,103,0.0
+Organización J,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,103,0.0
+Organización J,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,103,0.9708737864077669
+Organización J,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,103,26.21359223300971
+Organización J,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,103,13.592233009708737
+Organización J,Conflicto de rol,con3,Recibo solicitudes incompatibles,103,9.70873786407767
+Organización J,Gestión del cambio,cam1,Me consultan sobre los cambios,103,32.038834951456316
+Organización J,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,103,4.854368932038835
+Organización J,Gestión del cambio,cam3,Estoy informado sobre los cambios,103,6.796116504854369
+Organización J,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,103,8.737864077669903
+Organización J,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,103,10.679611650485436
+Organización J,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,103,40.77669902912621
+Organización J,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,103,35.92233009708738
+Organización J,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,103,37.86407766990291
+Organización J,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,103,39.80582524271845
+Organización J,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,103,32.038834951456316
+Organización J,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,103,32.038834951456316
+Organización J,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,103,26.21359223300971
+Organización J,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,103,19.41747572815534
+Organización J,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,103,36.89320388349515
+Organización K,Demandas,dem1,Me presionan para trabajar muchas horas,120,7.5
+Organización K,Demandas,dem2,Tengo plazos de entrega inalcanzables,120,6.666666666666667
+Organización K,Demandas,dem3,Tengo presiones de tiempo poco realistas,120,5.833333333333333
+Organización K,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,120,7.5
+Organización K,Control,ctrl1,Puedo decidir qué hago en mi trabajo,120,12.5
+Organización K,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,120,41.66666666666667
+Organización K,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,120,11.666666666666666
+Organización K,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,120,14.166666666666666
+Organización K,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",120,14.166666666666666
+Organización K,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,120,11.666666666666666
+Organización K,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,120,15.0
+Organización K,Apoyo del líder,lid5,Mi líder valora mis contribuciones,120,15.833333333333332
+Organización K,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,120,19.166666666666668
+Organización K,Apoyo del líder,lid7,Mi líder me anima con elogios,120,22.5
+Organización K,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",120,10.0
+Organización K,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,120,7.5
+Organización K,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,120,14.166666666666666
+Organización K,Claridad del rol,rol1,Tengo claro lo que se espera de mí,120,4.166666666666666
+Organización K,Claridad del rol,rol2,Sé cómo hacer mi trabajo,120,0.8333333333333334
+Organización K,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,120,0.8333333333333334
+Organización K,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,120,3.3333333333333335
+Organización K,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,120,18.333333333333332
+Organización K,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,120,10.833333333333334
+Organización K,Conflicto de rol,con3,Recibo solicitudes incompatibles,120,10.833333333333334
+Organización K,Gestión del cambio,cam1,Me consultan sobre los cambios,120,41.66666666666667
+Organización K,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,120,13.333333333333334
+Organización K,Gestión del cambio,cam3,Estoy informado sobre los cambios,120,21.666666666666668
+Organización K,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,120,27.500000000000004
+Organización K,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,120,25.833333333333336
+Organización K,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,120,41.66666666666667
+Organización K,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,120,38.333333333333336
+Organización K,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,120,37.5
+Organización K,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,120,37.5
+Organización K,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,120,19.166666666666668
+Organización K,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,120,22.5
+Organización K,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,120,19.166666666666668
+Organización K,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,120,16.666666666666664
+Organización K,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,120,35.833333333333336
+Organización L,Demandas,dem1,Me presionan para trabajar muchas horas,100,10.0
+Organización L,Demandas,dem2,Tengo plazos de entrega inalcanzables,100,9.0
+Organización L,Demandas,dem3,Tengo presiones de tiempo poco realistas,100,11.0
+Organización L,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,100,16.0
+Organización L,Control,ctrl1,Puedo decidir qué hago en mi trabajo,100,14.000000000000002
+Organización L,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,100,19.0
+Organización L,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,100,5.0
+Organización L,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,100,11.0
+Organización L,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",100,13.0
+Organización L,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,100,6.0
+Organización L,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,100,5.0
+Organización L,Apoyo del líder,lid5,Mi líder valora mis contribuciones,100,11.0
+Organización L,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,100,11.0
+Organización L,Apoyo del líder,lid7,Mi líder me anima con elogios,100,11.0
+Organización L,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",100,9.0
+Organización L,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,100,8.0
+Organización L,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,100,13.0
+Organización L,Claridad del rol,rol1,Tengo claro lo que se espera de mí,100,2.0
+Organización L,Claridad del rol,rol2,Sé cómo hacer mi trabajo,100,2.0
+Organización L,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,100,1.0
+Organización L,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,100,1.0
+Organización L,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,100,20.0
+Organización L,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,100,11.0
+Organización L,Conflicto de rol,con3,Recibo solicitudes incompatibles,100,13.0
+Organización L,Gestión del cambio,cam1,Me consultan sobre los cambios,100,33.0
+Organización L,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,100,14.000000000000002
+Organización L,Gestión del cambio,cam3,Estoy informado sobre los cambios,100,19.0
+Organización L,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,100,16.0
+Organización L,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,100,24.0
+Organización L,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,100,45.0
+Organización L,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,100,30.0
+Organización L,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,100,35.0
+Organización L,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,100,42.0
+Organización L,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,100,23.0
+Organización L,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,100,25.0
+Organización L,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,100,18.0
+Organización L,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,100,21.0
+Organización L,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,100,27.0
+Organización M,Demandas,dem1,Me presionan para trabajar muchas horas,100,12.0
+Organización M,Demandas,dem2,Tengo plazos de entrega inalcanzables,100,19.0
+Organización M,Demandas,dem3,Tengo presiones de tiempo poco realistas,100,19.0
+Organización M,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,100,28.000000000000004
+Organización M,Control,ctrl1,Puedo decidir qué hago en mi trabajo,100,16.0
+Organización M,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,100,19.0
+Organización M,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,100,12.0
+Organización M,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,100,10.0
+Organización M,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",100,10.0
+Organización M,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,100,7.000000000000001
+Organización M,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,100,9.0
+Organización M,Apoyo del líder,lid5,Mi líder valora mis contribuciones,100,9.0
+Organización M,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,100,9.0
+Organización M,Apoyo del líder,lid7,Mi líder me anima con elogios,100,21.0
+Organización M,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",100,11.0
+Organización M,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,100,7.000000000000001
+Organización M,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,100,10.0
+Organización M,Claridad del rol,rol1,Tengo claro lo que se espera de mí,100,6.0
+Organización M,Claridad del rol,rol2,Sé cómo hacer mi trabajo,100,0.0
+Organización M,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,100,1.0
+Organización M,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,100,1.0
+Organización M,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,100,28.000000000000004
+Organización M,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,100,17.0
+Organización M,Conflicto de rol,con3,Recibo solicitudes incompatibles,100,17.0
+Organización M,Gestión del cambio,cam1,Me consultan sobre los cambios,100,38.0
+Organización M,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,100,14.000000000000002
+Organización M,Gestión del cambio,cam3,Estoy informado sobre los cambios,100,17.0
+Organización M,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,100,15.0
+Organización M,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,100,12.0
+Organización M,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,100,39.0
+Organización M,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,100,30.0
+Organización M,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,100,38.0
+Organización M,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,100,33.0
+Organización M,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,100,28.999999999999996
+Organización M,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,100,28.000000000000004
+Organización M,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,100,18.0
+Organización M,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,100,23.0
+Organización M,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,100,24.0
+Organización N,Demandas,dem1,Me presionan para trabajar muchas horas,193,11.398963730569948
+Organización N,Demandas,dem2,Tengo plazos de entrega inalcanzables,193,10.880829015544041
+Organización N,Demandas,dem3,Tengo presiones de tiempo poco realistas,193,10.880829015544041
+Organización N,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,193,16.580310880829018
+Organización N,Control,ctrl1,Puedo decidir qué hago en mi trabajo,193,11.917098445595855
+Organización N,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,193,19.170984455958546
+Organización N,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,193,7.772020725388601
+Organización N,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,193,10.880829015544041
+Organización N,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",193,9.32642487046632
+Organización N,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,193,7.253886010362693
+Organización N,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,193,7.772020725388601
+Organización N,Apoyo del líder,lid5,Mi líder valora mis contribuciones,193,7.772020725388601
+Organización N,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,193,11.917098445595855
+Organización N,Apoyo del líder,lid7,Mi líder me anima con elogios,193,16.580310880829018
+Organización N,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",193,9.32642487046632
+Organización N,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,193,7.253886010362693
+Organización N,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,193,9.844559585492227
+Organización N,Claridad del rol,rol1,Tengo claro lo que se espera de mí,193,2.5906735751295336
+Organización N,Claridad del rol,rol2,Sé cómo hacer mi trabajo,193,1.5544041450777202
+Organización N,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,193,0.5181347150259068
+Organización N,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,193,0.0
+Organización N,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,193,30.05181347150259
+Organización N,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,193,17.616580310880828
+Organización N,Conflicto de rol,con3,Recibo solicitudes incompatibles,193,16.580310880829018
+Organización N,Gestión del cambio,cam1,Me consultan sobre los cambios,193,26.42487046632124
+Organización N,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,193,8.290155440414509
+Organización N,Gestión del cambio,cam3,Estoy informado sobre los cambios,193,12.435233160621761
+Organización N,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,193,9.844559585492227
+Organización N,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,193,15.025906735751295
+Organización N,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,193,30.05181347150259
+Organización N,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,193,28.497409326424872
+Organización N,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,193,32.12435233160622
+Organización N,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,193,34.196891191709845
+Organización N,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,193,23.316062176165804
+Organización N,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,193,24.352331606217618
+Organización N,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,193,22.797927461139896
+Organización N,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,193,19.689119170984455
+Organización N,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,193,24.352331606217618
+Organización O,Demandas,dem1,Me presionan para trabajar muchas horas,420,9.523809523809524
+Organización O,Demandas,dem2,Tengo plazos de entrega inalcanzables,420,10.238095238095237
+Organización O,Demandas,dem3,Tengo presiones de tiempo poco realistas,420,16.904761904761905
+Organización O,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,420,15.95238095238095
+Organización O,Control,ctrl1,Puedo decidir qué hago en mi trabajo,420,38.095238095238095
+Organización O,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,420,46.666666666666664
+Organización O,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,420,30.476190476190478
+Organización O,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,420,25.0
+Organización O,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",420,25.238095238095237
+Organización O,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,420,21.19047619047619
+Organización O,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,420,23.809523809523807
+Organización O,Apoyo del líder,lid5,Mi líder valora mis contribuciones,420,26.904761904761905
+Organización O,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,420,37.142857142857146
+Organización O,Apoyo del líder,lid7,Mi líder me anima con elogios,420,40.714285714285715
+Organización O,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",420,11.904761904761903
+Organización O,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,420,12.619047619047619
+Organización O,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,420,22.142857142857142
+Organización O,Claridad del rol,rol1,Tengo claro lo que se espera de mí,420,1.4285714285714286
+Organización O,Claridad del rol,rol2,Sé cómo hacer mi trabajo,420,0.4761904761904762
+Organización O,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,420,0.2380952380952381
+Organización O,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,420,0.4761904761904762
+Organización O,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,420,27.857142857142858
+Organización O,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,420,13.095238095238097
+Organización O,Conflicto de rol,con3,Recibo solicitudes incompatibles,420,12.380952380952381
+Organización O,Gestión del cambio,cam1,Me consultan sobre los cambios,420,49.047619047619044
+Organización O,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,420,9.523809523809524
+Organización O,Gestión del cambio,cam3,Estoy informado sobre los cambios,420,11.428571428571429
+Organización O,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,420,33.80952380952381
+Organización O,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,420,50.0
+Organización O,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,420,65.23809523809524
+Organización O,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,420,49.523809523809526
+Organización O,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,420,58.57142857142858
+Organización O,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,420,59.76190476190476
+Organización O,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,420,17.61904761904762
+Organización O,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,420,18.571428571428573
+Organización O,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,420,14.285714285714285
+Organización O,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,420,15.714285714285714
+Organización O,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,420,37.142857142857146
+Todas las organizaciones,Demandas,dem1,Me presionan para trabajar muchas horas,4327,7.279870580078576
+Todas las organizaciones,Demandas,dem2,Tengo plazos de entrega inalcanzables,4327,9.798936907788306
+Todas las organizaciones,Demandas,dem3,Tengo presiones de tiempo poco realistas,4327,9.313612202449734
+Todas las organizaciones,Demandas,dem4,Descuido tareas porque tengo mucho que hacer,4327,12.757106540328172
+Todas las organizaciones,Control,ctrl1,Puedo decidir qué hago en mi trabajo,4327,30.899006239889072
+Todas las organizaciones,Control,ctrl2,Puedo opinar sobre la forma de hacer mi trabajo,4327,25.999537785994914
+Todas las organizaciones,Control,ctrl3,Tengo voz y voto sobre mi ritmo de trabajo,4327,19.20499191125491
+Todas las organizaciones,Apoyo del líder,lid1,Puedo confiar en mi líder ante un problema,4327,13.011324243124566
+Todas las organizaciones,Apoyo del líder,lid2,"Si el trabajo se pone difícil, mi líder me ayuda",4327,15.576611971342732
+Todas las organizaciones,Apoyo del líder,lid3,Recibo de mi líder el apoyo que necesito,4327,10.700254217702797
+Todas las organizaciones,Apoyo del líder,lid4,Mi líder escucha mis problemas laborales,4327,11.670903628379941
+Todas las organizaciones,Apoyo del líder,lid5,Mi líder valora mis contribuciones,4327,13.404206147446269
+Todas las organizaciones,Apoyo del líder,lid6,Mi líder reconoce mi trabajo duro,4327,21.1462907326092
+Todas las organizaciones,Apoyo del líder,lid7,Mi líder me anima con elogios,4327,21.978275941761037
+Todas las organizaciones,Apoyo de compañeros,gru1,"Si el trabajo se pone difícil, mis compañeros me ayudan",4327,17.79523919574763
+Todas las organizaciones,Apoyo de compañeros,gru2,Recibo de mis compañeros el apoyo que necesito,4327,15.969493875664433
+Todas las organizaciones,Apoyo de compañeros,gru3,Mis compañeros escuchan mis problemas laborales,4327,25.098220476080424
+Todas las organizaciones,Claridad del rol,rol1,Tengo claro lo que se espera de mí,4327,2.7039519297434715
+Todas las organizaciones,Claridad del rol,rol2,Sé cómo hacer mi trabajo,4327,0.6702103073723134
+Todas las organizaciones,Claridad del rol,rol3,Tengo claros mis deberes y responsabilidades,4327,0.5315461058470071
+Todas las organizaciones,Claridad del rol,rol4,Entiendo cómo mi trabajo aporta al objetivo general,4327,1.247977813727756
+Todas las organizaciones,Conflicto de rol,con1,Distintos grupos me exigen cosas difíciles de hacer a la vez,4327,18.21123180032355
+Todas las organizaciones,Conflicto de rol,con2,Distintas personas esperan de mí cosas contradictorias,4327,11.97134273168477
+Todas las organizaciones,Conflicto de rol,con3,Recibo solicitudes incompatibles,4327,10.376704414143749
+Todas las organizaciones,Gestión del cambio,cam1,Me consultan sobre los cambios,2224,36.42086330935252
+Todas las organizaciones,Gestión del cambio,cam2,Tengo claro cómo funcionarán los cambios,4327,9.082505199907558
+Todas las organizaciones,Gestión del cambio,cam3,Estoy informado sobre los cambios,4327,12.202449734226947
+Todas las organizaciones,Gestión del cambio,cam4,Puedo expresar inquietudes sobre los cambios,4327,19.181881211000693
+Todas las organizaciones,Responsabilidad organizacional,res1,La salud física y mental es prioridad de los líderes,4327,22.740929050150218
+Todas las organizaciones,Responsabilidad organizacional,res2,Se mide periódicamente la salud mental,4327,37.508666512595326
+Todas las organizaciones,Responsabilidad organizacional,res3,Hay recursos accesibles para la salud mental,4327,32.97896926276866
+Todas las organizaciones,Responsabilidad organizacional,res4,Recibo entrenamiento en cuidado de la salud mental,2224,43.92985611510791
+Todas las organizaciones,Responsabilidad organizacional,res5,Se comunican los resultados de las acciones en salud mental,4327,33.76473307141206
+Todas las organizaciones,Interferencia trabajo→familia,tf1,Las exigencias del trabajo interfieren con mi vida familiar,4325,19.76878612716763
+Todas las organizaciones,Interferencia trabajo→familia,tf2,El tiempo de trabajo dificulta mis responsabilidades familiares,4325,20.878612716763005
+Todas las organizaciones,Interferencia trabajo→familia,tf3,Lo que quiero hacer en casa no se hace por el trabajo,4325,17.387283236994218
+Todas las organizaciones,Interferencia trabajo→familia,tf4,El trabajo produce tensión que afecta mis deberes familiares,4325,17.872832369942195
+Todas las organizaciones,Interferencia trabajo→familia,tf5,Por el trabajo cambio mis planes familiares,4325,30.70520231213873

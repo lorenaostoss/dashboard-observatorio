@@ -1,0 +1,9 @@
+# Bases originales: contienen correos, nombres, documentos y texto libre. NUNCA subirlas.
+datos_originales/
+*.xlsx
+*.xls
+# Python
+__pycache__/
+*.pyc
+.venv/
+.streamlit/secrets.toml

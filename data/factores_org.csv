@@ -1,0 +1,145 @@
+org,factor,n,indice,pct_desfavorable,items_disponibles
+Organización A,Demandas,124,64.78494623655914,29.03225806451613,4
+Organización A,Control,124,61.37992831541219,21.774193548387096,3
+Organización A,Apoyo del líder,124,70.33410138248848,14.516129032258066,7
+Organización A,Apoyo de compañeros,124,72.40143369175628,9.67741935483871,3
+Organización A,Claridad del rol,124,83.70295698924731,1.6129032258064515,4
+Organización A,Conflicto de rol,124,66.53225806451613,21.774193548387096,3
+Organización A,Gestión del cambio,124,54.46908602150537,37.903225806451616,4
+Organización A,Responsabilidad organizacional,124,48.36021505376344,48.38709677419355,5
+Organización A,Interferencia trabajo→familia,124,63.25268817204301,33.87096774193548,5
+Organización B,Demandas,87,62.78735632183908,26.436781609195403,4
+Organización B,Control,87,73.37164750957854,10.344827586206897,3
+Organización B,Apoyo del líder,87,72.35905856595512,18.39080459770115,7
+Organización B,Apoyo de compañeros,87,72.54150702426564,14.942528735632186,3
+Organización B,Claridad del rol,87,86.30268199233717,1.1494252873563218,4
+Organización B,Conflicto de rol,87,61.36653895274585,24.137931034482758,3
+Organización B,Gestión del cambio,87,58.5727969348659,29.88505747126437,4
+Organización B,Responsabilidad organizacional,87,51.0727969348659,44.827586206896555,5
+Organización B,Interferencia trabajo→familia,87,56.20689655172415,43.67816091954023,5
+Organización C,Demandas,135,80.5864197530864,9.62962962962963,4
+Organización C,Control,135,61.02880658436212,25.925925925925924,3
+Organización C,Apoyo del líder,135,80.12345679012347,8.88888888888889,7
+Organización C,Apoyo de compañeros,135,79.21810699588478,7.4074074074074066,3
+Organización C,Claridad del rol,135,89.22839506172839,0.0,4
+Organización C,Conflicto de rol,135,76.41975308641976,13.333333333333334,3
+Organización C,Gestión del cambio,135,63.425925925925924,20.74074074074074,4
+Organización C,Responsabilidad organizacional,135,65.53086419753086,23.703703703703706,5
+Organización C,Interferencia trabajo→familia,135,86.09876543209876,8.88888888888889,5
+Organización D,Demandas,78,54.006410256410255,39.743589743589745,4
+Organización D,Control,78,49.21652421652422,44.871794871794876,3
+Organización D,Apoyo del líder,78,58.54700854700855,33.33333333333333,7
+Organización D,Apoyo de compañeros,78,63.532763532763525,23.076923076923077,3
+Organización D,Claridad del rol,78,81.30341880341882,1.282051282051282,4
+Organización D,Conflicto de rol,78,56.69515669515669,38.46153846153847,3
+Organización D,Gestión del cambio,78,40.598290598290596,56.41025641025641,4
+Organización D,Responsabilidad organizacional,78,15.213675213675211,93.58974358974359,5
+Organización D,Interferencia trabajo→familia,78,51.324786324786324,57.692307692307686,5
+Organización E,Demandas,2103,81.81566016801393,5.753685211602472,4
+Organización E,Control,2103,47.559042637501975,48.882548739895384,3
+Organización E,Apoyo del líder,2103,63.94832778570296,30.147408464098906,7
+Organización E,Apoyo de compañeros,2103,48.13758123315898,51.59296243461722,3
+Organización E,Claridad del rol,2103,91.65676018386434,1.5691868758915835,4
+Organización E,Conflicto de rol,2103,79.41564960109896,8.083689966714218,3
+Organización E,Gestión del cambio,2103,68.5924869234427,18.830242510699,3
+Organización E,Responsabilidad organizacional,2103,58.79497543192265,36.37660485021398,4
+Organización E,Interferencia trabajo→familia,2101,75.4831032841504,16.420752022846262,5
+Organización F,Demandas,110,87.04545454545453,3.6363636363636362,4
+Organización F,Control,110,57.979797979797986,30.909090909090907,3
+Organización F,Apoyo del líder,110,79.02597402597402,11.818181818181818,7
+Organización F,Apoyo de compañeros,110,81.46464646464645,8.181818181818182,3
+Organización F,Claridad del rol,110,90.0378787878788,3.6363636363636362,4
+Organización F,Conflicto de rol,110,80.05050505050504,10.0,3
+Organización F,Gestión del cambio,110,58.06818181818181,35.45454545454545,4
+Organización F,Responsabilidad organizacional,110,42.09090909090909,60.909090909090914,5
+Organización F,Interferencia trabajo→familia,110,86.0909090909091,7.2727272727272725,5
+Organización G,Demandas,333,76.75175175175175,9.90990990990991,4
+Organización G,Control,333,58.108108108108105,28.52852852852853,3
+Organización G,Apoyo del líder,333,72.21507221507221,18.31831831831832,7
+Organización G,Apoyo de compañeros,333,61.478144811478145,26.726726726726728,3
+Organización G,Claridad del rol,333,89.83983983983984,0.6006006006006006,4
+Organización G,Conflicto de rol,333,74.24090757424091,14.714714714714713,3
+Organización G,Gestión del cambio,333,59.5095095095095,33.33333333333333,4
+Organización G,Responsabilidad organizacional,333,41.38138138138138,63.36336336336337,5
+Organización G,Interferencia trabajo→familia,333,73.41341341341342,21.62162162162162,5
+Organización H,Demandas,222,75.05630630630631,11.26126126126126,4
+Organización H,Control,222,47.42242242242242,47.2972972972973,3
+Organización H,Apoyo del líder,222,68.11454311454312,23.873873873873876,7
+Organización H,Apoyo de compañeros,222,57.70770770770771,31.53153153153153,3
+Organización H,Claridad del rol,222,85.24774774774775,1.8018018018018018,4
+Organización H,Conflicto de rol,222,69.1941941941942,18.01801801801802,3
+Organización H,Gestión del cambio,222,52.36486486486486,41.44144144144144,4
+Organización H,Responsabilidad organizacional,222,29.93993993993994,77.47747747747748,5
+Organización H,Interferencia trabajo→familia,222,72.16216216216216,27.927927927927925,5
+Organización I,Demandas,99,73.23232323232324,12.121212121212121,4
+Organización I,Control,99,61.896745230078565,20.2020202020202,3
+Organización I,Apoyo del líder,99,70.10582010582011,18.181818181818183,7
+Organización I,Apoyo de compañeros,99,66.27384960718294,20.2020202020202,3
+Organización I,Claridad del rol,99,83.33333333333333,5.05050505050505,4
+Organización I,Conflicto de rol,99,69.75308641975309,21.21212121212121,3
+Organización I,Gestión del cambio,99,57.28114478114479,33.33333333333333,4
+Organización I,Responsabilidad organizacional,99,51.34680134680134,46.464646464646464,5
+Organización I,Interferencia trabajo→familia,99,69.32659932659932,24.242424242424242,5
+Organización J,Demandas,103,74.83818770226537,8.737864077669903,4
+Organización J,Control,103,63.16073354908306,20.388349514563107,3
+Organización J,Apoyo del líder,103,75.28895053166897,13.592233009708737,7
+Organización J,Apoyo de compañeros,103,70.9277238403452,11.650485436893204,3
+Organización J,Claridad del rol,103,90.16990291262135,0.9708737864077669,4
+Organización J,Conflicto de rol,103,70.3883495145631,13.592233009708737,3
+Organización J,Gestión del cambio,103,59.708737864077676,29.126213592233007,4
+Organización J,Responsabilidad organizacional,103,45.21035598705502,60.19417475728155,5
+Organización J,Interferencia trabajo→familia,103,68.83495145631069,32.038834951456316,5
+Organización K,Demandas,120,80.3125,8.333333333333332,4
+Organización K,Control,120,53.28703703703704,34.166666666666664,3
+Organización K,Apoyo del líder,120,69.06746031746032,22.5,7
+Organización K,Apoyo de compañeros,120,69.86111111111111,20.833333333333336,3
+Organización K,Claridad del rol,120,90.625,0.8333333333333334,4
+Organización K,Conflicto de rol,120,76.66666666666667,10.833333333333334,3
+Organización K,Gestión del cambio,120,54.826388888888886,40.0,4
+Organización K,Responsabilidad organizacional,120,47.416666666666664,50.83333333333333,5
+Organización K,Interferencia trabajo→familia,120,71.77777777777777,21.666666666666668,5
+Organización L,Demandas,100,74.5,12.0,4
+Organización L,Control,100,62.83333333333333,23.0,3
+Organización L,Apoyo del líder,100,69.50000000000001,21.0,7
+Organización L,Apoyo de compañeros,100,64.11111111111111,23.0,3
+Organización L,Claridad del rol,100,86.08333333333331,3.0,4
+Organización L,Conflicto de rol,100,73.55555555555557,16.0,3
+Organización L,Gestión del cambio,100,57.29166666666666,37.0,4
+Organización L,Responsabilidad organizacional,100,48.13333333333332,52.0,5
+Organización L,Interferencia trabajo→familia,100,74.23333333333333,28.999999999999996,5
+Organización M,Demandas,100,67.16666666666666,17.0,4
+Organización M,Control,100,59.33333333333334,32.0,3
+Organización M,Apoyo del líder,100,68.69047619047619,24.0,7
+Organización M,Apoyo de compañeros,100,66.44444444444444,20.0,3
+Organización M,Claridad del rol,100,84.54166666666669,6.0,4
+Organización M,Conflicto de rol,100,66.27777777777779,18.0,3
+Organización M,Gestión del cambio,100,56.04166666666666,35.0,4
+Organización M,Responsabilidad organizacional,100,47.73333333333335,54.0,5
+Organización M,Interferencia trabajo→familia,100,68.43333333333334,30.0,5
+Organización N,Demandas,193,72.68998272884284,11.917098445595855,4
+Organización N,Control,193,63.557858376511234,19.689119170984455,3
+Organización N,Apoyo del líder,193,70.24426350851222,19.170984455958546,7
+Organización N,Apoyo de compañeros,193,65.80310880829016,20.207253886010363,3
+Organización N,Claridad del rol,193,88.94645941278068,1.5544041450777202,4
+Organización N,Conflicto de rol,193,66.06217616580312,24.352331606217618,3
+Organización N,Gestión del cambio,193,61.83074265975821,26.94300518134715,4
+Organización N,Responsabilidad organizacional,193,54.196891191709845,41.968911917098445,5
+Organización N,Interferencia trabajo→familia,193,71.32987910189983,21.243523316062177,5
+Organización O,Demandas,420,74.26587301587301,12.142857142857142,4
+Organización O,Control,420,40.62169312169312,61.66666666666667,3
+Organización O,Apoyo del líder,420,52.6077097505669,46.42857142857143,7
+Organización O,Apoyo de compañeros,420,62.98941798941799,30.0,3
+Organización O,Claridad del rol,420,93.18452380952381,0.4761904761904762,4
+Organización O,Conflicto de rol,420,69.36507936507937,15.0,3
+Organización O,Gestión del cambio,420,54.1765873015873,41.904761904761905,4
+Organización O,Responsabilidad organizacional,420,30.68253968253968,75.0,5
+Organización O,Interferencia trabajo→familia,420,74.46031746031746,19.761904761904763,5
+Todas las organizaciones,Demandas,4327,77.75017333025191,9.706494106771435,4
+Todas las organizaciones,Control,4327,51.51760265002696,41.645481858100304,3
+Todas las organizaciones,Apoyo del líder,4327,65.91171712502889,27.016408597180497,7
+Todas las organizaciones,Apoyo de compañeros,4327,57.51739722158026,36.30691009937601,3
+Todas las organizaciones,Claridad del rol,4327,90.02869578614899,1.571527617286804,4
+Todas las organizaciones,Conflicto de rol,4327,74.75155997226716,12.895770741853479,3
+Todas las organizaciones,Gestión del cambio,4327,62.41718665742239,27.59417610353594,4
+Todas las organizaciones,Responsabilidad organizacional,4327,50.27482474385641,48.301363531315,5
+Todas las organizaciones,Interferencia trabajo→familia,4325,73.70173410404624,20.578034682080926,5
